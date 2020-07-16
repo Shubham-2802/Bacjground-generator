@@ -23,6 +23,15 @@ p{
 	width: 100%;
 }
 
+ul {
+	font: sans-serif;
+	color: rgba(0,0.2,0,.5);
+	text-align: center;
+	text-shadow: currentColor;
+	letter-spacing: .5em;
+	width: 100%;
+}
+
 h2{
 	color: rgba(0,0,0,.5);
 	text-align: center;
