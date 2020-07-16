@@ -1,0 +1,32 @@
+body {
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	letter-spacing: .5em;
+	top: 15%;
+	background: linear-gradient(to right, blue, green);
+}
+
+h1{
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	text-shadow: rgb(0,0,.4);
+	letter-spacing: .5em;
+	width: 100%;
+}
+
+p{
+	font: sans-serif;
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	text-shadow: currentColor;
+	letter-spacing: .5em;
+	width: 100%;
+}
+
+h2{
+	color: rgba(0,0,0,.5);
+	text-align: center;
+	text-shadow: currentColor;
+	letter-spacing: .5em;
+	width: 100%;
+}
