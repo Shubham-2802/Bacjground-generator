@@ -1,1 +1,1 @@
-# Bacjground-generator
+# Background-generator
